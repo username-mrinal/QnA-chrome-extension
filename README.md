@@ -1,1 +1,1 @@
-# qna-extension
+# QnA-chrome-extension
