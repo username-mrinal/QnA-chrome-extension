@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 from transformers import DPRContextEncoder, DPRReaderTokenizer, DPRReader
+import torch
 
 app = Flask(__name__)
 
